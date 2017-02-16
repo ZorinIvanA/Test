@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Class Name="Class1">
+  <Student Name="Ivanov Ivan" Age="19" Sex="Male">
+    
+  </Student>
+  <Student Name="Petrova Daria" Age="18" Sex ="Female">
+
+  </Student>
+</Class>
+
